@@ -10,7 +10,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['user_type'] != 'admin') {
 
 $servername = "localhost";
 $username = "root";
-$password = "1234567";
+$password = "";
 $dbname = "pets";
 
 
