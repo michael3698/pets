@@ -96,7 +96,7 @@ $pageName = basename($_SERVER['PHP_SELF']);
         <?php
         $servername = "localhost";
         $username = "root";
-        $password = "1234567";
+        $password = "";
         $dbname = "pets";
         $conn = new mysqli($servername, $username, $password, $dbname);
 
