@@ -88,7 +88,7 @@ session_start();
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $servername = "localhost";
     $username = "root";
-    $password = "1234567";
+    $password = "";
     $dbname = "pets";
 
 
